@@ -17,7 +17,9 @@ header {
   width: 100%;
   z-index: 1000;
 }
-
+section#inicio {
+  padding-top: 20px;
+}
 .header-content {
   display: flex;
   justify-content: space-between;
@@ -55,6 +57,10 @@ nav a {
 
 nav a:hover {
   color: #666;
+}
+
+section#inicio {
+  padding-top: 20px;
 }
 
 /* Estilos del contenido */
